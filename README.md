@@ -57,9 +57,6 @@ A data de entrega do projeto será especificada no Classroom, assim como a quant
 
 A entrega consiste no link do fork do repositório no GitHub, contendo o código-fonte do projeto e o relatório.
 
-- Faça um fork desse repositório e inclua as alterações necessárias (**todos os integrantes do grupo devem contribuir!**).
-  - Além das implementações, fique à vontade para alterar o README.md como achar melhor.
-
 - O relatório deve estar no formato PDF ou como link de um Google Docs. Ele deve conter:
   - Nome dos integrantes do grupo.
   - Link para o fork do repositório no GitHub.
